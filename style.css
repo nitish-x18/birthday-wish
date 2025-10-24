@@ -744,7 +744,10 @@ body {
         margin-top: -14px;
         padding: 20px 15px 10px 15px;
         font-family: 'Dancing Script', cursive;
-        font-size: .8rem;
+        font-size: .6rem;
+        max-width: 90%;
+    
+    
     }
 
     .content__letter .right .love__img {
